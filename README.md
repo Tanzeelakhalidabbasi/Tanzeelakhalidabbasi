@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanzeelakhalidabbasi" target="_blank">
+  <a href="https://www.linkedin.com/in/tanzeela-khalid-abbasi-0821b4286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tanzeela%20Khalid-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
