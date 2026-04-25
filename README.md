@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Tanzeela Khalid 👋</h1>
 
 <p align="center">
-  🎓 Final Year CS Student @ IST University, Rawalpindi &nbsp;|&nbsp; 💻 Frontend Dev &nbsp;|&nbsp; 🎨 UI/UX Designer &nbsp;|&nbsp; 🤖 ML Enthusiast
+  🎓 Final Year CS Student @ IST University, ISLAMABAD &nbsp;|&nbsp; 💻 Frontend Dev &nbsp;|&nbsp; 🎨 UI/UX Designer &nbsp;|&nbsp; 🤖 ML Enthusiast
 </p>
 
 <p align="center">
